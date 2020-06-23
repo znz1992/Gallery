@@ -1,0 +1,65 @@
+{
+  "id": "znz.app.sub",
+  "name": "自用应用订阅",
+  "author": "@lxk0301",
+  "icon": "https://avatars2.githubusercontent.com/u/16976219",
+  "repo": "https://github.com/znz1992",
+  "apps": [
+    {
+      "id": "znz.jd_fruit",
+      "name": "京东水果",
+      "keys": ["CookieJD", "jd_fruit1", "jd_fruit2", "jd_fruit3", "jd_fruit4", "jd_fruit5"],
+      "settings": [
+        {
+          "id": "CookieJD",
+          "name": "CookieJD",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东ck。"
+        },
+        {
+          "id": "jd_fruit1",
+          "name": "互助码1",
+          "val": "43e7abaaf80f4c859a3a2625ede8de39",
+          "type": "text",
+          "desc": "京东水果互助码."
+        },
+        {
+          "id": "jd_fruit2",
+          "name": "互助码2",
+          "val": "d2cfe05ffc96446c80884c5ac29ae18f",
+          "type": "text",
+          "desc": "京东水果互助码."
+        },
+        {
+          "id": "jd_fruit3",
+          "name": "互助码3",
+          "val": "e36d09e9036f4046af5c959b01e763da",
+          "type": "text",
+          "desc": "京东水果互助码."
+        },
+        {
+          "id": "jd_fruit4",
+          "name": "互助码4",
+          "val": "b1b8b595f5fd4d728f2a9eff7ffd4b67",
+          "type": "text",
+          "desc": "京东水果互助码."
+        },
+        {
+          "id": "jd_fruit5",
+          "name": "互助码5",
+          "val": "e53afdb56adc43ee9ddcd2f41d15e550",
+          "type": "text",
+          "desc": "京东水果互助码."
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdsg.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdsg.png"
+      ]
+    }
+
+  ]
+}

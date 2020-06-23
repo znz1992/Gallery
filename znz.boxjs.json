@@ -59,6 +59,102 @@
         "https://raw.githubusercontent.com/znz1992/Gallery/master/jdsg.png",
         "https://raw.githubusercontent.com/znz1992/Gallery/master/jdsg.png"
       ]
+    },
+    {
+      "id": "znz.jd_pet",
+      "name": "京东萌宠",
+      "keys": ["CookieJD", "jd_pet1", "jd_pet2", "jd_pet3", "jd_pet4", "jd_pet5"],
+      "settings": [
+        {
+          "id": "CookieJD",
+          "name": "CookieJD",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东ck。"
+        },
+        {
+          "id": "jd_pet1",
+          "name": "互助码1",
+          "val": "MTAxODc2NTEzNTAwMDAwMDAyNjMwNDY1MQ==",
+          "type": "text",
+          "desc": "京东萌宠互助码."
+        },
+        {
+          "id": "jd_pet2",
+          "name": "互助码2",
+          "val": "MTAxODcxOTI2NTAwMDAwMDAyMDE5MzEyMw==",
+          "type": "text",
+          "desc": "京东萌宠互助码."
+        },
+        {
+          "id": "jd_pet3",
+          "name": "互助码3",
+          "val": "MTAxODc2NTEzMjAwMDAwMDAyNDA4ODg3OQ==",
+          "type": "text",
+          "desc": "京东萌宠互助码."
+        },
+        {
+          "id": "jd_pet4",
+          "name": "互助码4",
+          "val": "MTAxODc2NTEzNTAwMDAwMDAyNzU0OTk3NQ==",
+          "type": "text",
+          "desc": "京东萌宠互助码."
+        },
+        {
+          "id": "jd_pet5",
+          "name": "互助码5",
+          "val": "MTAxODc2NTEzMzAwMDAwMDAyNDg5NDg0NQ==",
+          "type": "text",
+          "desc": "京东萌宠互助码."
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdmc.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdmc.png"
+      ]
+    },
+    {
+      "id": "znz.jd_plantBean",
+      "name": "京东种豆",
+      "keys": ["CookieJD", "jd_plantBean1", "jd_plantBean2", "jd_plantBean3"],
+      "settings": [
+        {
+          "id": "CookieJD",
+          "name": "CookieJD",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东ck。"
+        },
+        {
+          "id": "jd_plantBean1",
+          "name": "互助码1",
+          "val": "uvcpyysxbvh6ocloisu5tkztc7jdzb64tkbqw4i",
+          "type": "text",
+          "desc": "京东水果互助码."
+        },
+        {
+          "id": "jd_plantBean2",
+          "name": "互助码2",
+          "val": "fomklaecyydoc2jp2jllizyvgq",
+          "type": "text",
+          "desc": "京东水果互助码."
+        },
+        {
+          "id": "jd_plantBean3",
+          "name": "互助码3",
+          "val": "6mvapsim7yps6pf3lvz3gwv2u4",
+          "type": "text",
+          "desc": "京东水果互助码."
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdsg.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdsg.png"
+      ]
     }
 
   ]

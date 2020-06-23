@@ -27,35 +27,35 @@
         {
           "id": "jd_fruit1",
           "name": "互助码1",
-          "val": "43e7abaaf80f4c859a3a2625ede8de39",
+          "val": "1aefdabb6ed84eb0bb90915239d2d48a",
           "type": "text",
           "desc": "京东水果互助码."
         },
         {
           "id": "jd_fruit2",
           "name": "互助码2",
-          "val": "d2cfe05ffc96446c80884c5ac29ae18f",
+          "val": "",
           "type": "text",
           "desc": "京东水果互助码."
         },
         {
           "id": "jd_fruit3",
           "name": "互助码3",
-          "val": "e36d09e9036f4046af5c959b01e763da",
+          "val": "",
           "type": "text",
           "desc": "京东水果互助码."
         },
         {
           "id": "jd_fruit4",
           "name": "互助码4",
-          "val": "b1b8b595f5fd4d728f2a9eff7ffd4b67",
+          "val": "",
           "type": "text",
           "desc": "京东水果互助码."
         },
         {
           "id": "jd_fruit5",
           "name": "互助码5",
-          "val": "e53afdb56adc43ee9ddcd2f41d15e550",
+          "val": "",
           "type": "text",
           "desc": "京东水果互助码."
         }
@@ -89,35 +89,35 @@
         {
           "id": "jd_pet1",
           "name": "互助码1",
-          "val": "MTAxODc2NTEzNTAwMDAwMDAyNjMwNDY1MQ==",
+          "val": "MTAxODc2NTEzNDAwMDAwMDAyNzU0NzIwMQ==",
           "type": "text",
           "desc": "京东萌宠互助码."
         },
         {
           "id": "jd_pet2",
           "name": "互助码2",
-          "val": "MTAxODcxOTI2NTAwMDAwMDAyMDE5MzEyMw==",
+          "val": "",
           "type": "text",
           "desc": "京东萌宠互助码."
         },
         {
           "id": "jd_pet3",
           "name": "互助码3",
-          "val": "MTAxODc2NTEzMjAwMDAwMDAyNDA4ODg3OQ==",
+          "val": "",
           "type": "text",
           "desc": "京东萌宠互助码."
         },
         {
           "id": "jd_pet4",
           "name": "互助码4",
-          "val": "MTAxODc2NTEzNTAwMDAwMDAyNzU0OTk3NQ==",
+          "val": "",
           "type": "text",
           "desc": "京东萌宠互助码."
         },
         {
           "id": "jd_pet5",
           "name": "互助码5",
-          "val": "MTAxODc2NTEzMzAwMDAwMDAyNDg5NDg0NQ==",
+          "val": "",
           "type": "text",
           "desc": "京东萌宠互助码."
         }
@@ -151,21 +151,21 @@
         {
           "id": "jd_plantBean1",
           "name": "互助码1",
-          "val": "uvcpyysxbvh6ocloisu5tkztc7jdzb64tkbqw4i",
+          "val": "cay7n2fgqgn7sq2bzog7a3ovlq",
           "type": "text",
           "desc": "京东水果互助码."
         },
         {
           "id": "jd_plantBean2",
           "name": "互助码2",
-          "val": "fomklaecyydoc2jp2jllizyvgq",
+          "val": "",
           "type": "text",
           "desc": "京东水果互助码."
         },
         {
           "id": "jd_plantBean3",
           "name": "互助码3",
-          "val": "6mvapsim7yps6pf3lvz3gwv2u4",
+          "val": "",
           "type": "text",
           "desc": "京东水果互助码."
         }

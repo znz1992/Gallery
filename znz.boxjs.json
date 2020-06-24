@@ -8,7 +8,7 @@
     {
       "id": "znz.jd_fruit",
       "name": "京东水果",
-      "keys": ["jd_fruit_name","CookieJD_z", "jd_fruit0", "jd_fruit1", "jd_fruit2", "jd_fruit3", "jd_fruit4", "jd_fruit5"],
+      "keys": ["jd_fruit_name","CookieJD_z", "jd_fruit0", "jd_fruit1", "jd_fruit2", "jd_fruit3", "jd_fruit4"],
       "settings": [
         {
           "id": "jd_fruit_name",
@@ -27,14 +27,14 @@
         {
           "id": "jd_fruit0",
           "name": "自己的互助码",
-          "val": "1aefdabb6ed84eb0bb90915239d2d48a",
+          "val": "",
           "type": "text",
           "desc": "你自己的互助码."
         },
         {
           "id": "jd_fruit1",
           "name": "互助码1",
-          "val": "1aefdabb6ed84eb0bb90915239d2d48a",
+          "val": "",
           "type": "text",
           "desc": "京东水果互助码."
         },
@@ -58,13 +58,6 @@
           "val": "",
           "type": "text",
           "desc": "京东水果互助码."
-        },
-        {
-          "id": "jd_fruit5",
-          "name": "互助码5",
-          "val": "",
-          "type": "text",
-          "desc": "京东水果互助码."
         }
       ],
       "author": "@lxk0301",
@@ -77,14 +70,14 @@
     {
       "id": "znz.jd_pet",
       "name": "京东萌宠",
-      "keys": ["jd_pet_name","CookieJD_z", "jd_pet1", "jd_pet2", "jd_pet3", "jd_pet4", "jd_pet5"],
+      "keys": ["jd_pet_name","CookieJD_z", "jd_pet0", "jd_pet1", "jd_pet2", "jd_pet3", "jd_pet4", "jd_pet5"],
       "settings": [
         {
           "id": "jd_pet_name",
           "name": "jd_pet_name",
           "val": "京东萌宠",
           "type": "text",
-          "desc": "名称。"
+          "desc": "帐号名称。"
         },
         {
           "id": "CookieJD_z",
@@ -95,8 +88,15 @@
         },
         {
           "id": "jd_pet1",
+          "name": "自己的互助码",
+          "val": "",
+          "type": "text",
+          "desc": "你自己的互助码."
+        },
+        {
+          "id": "jd_pet1",
           "name": "互助码1",
-          "val": "MTAxODc2NTEzNDAwMDAwMDAyNzU0NzIwMQ==",
+          "val": "",
           "type": "text",
           "desc": "京东萌宠互助码."
         },
@@ -139,14 +139,14 @@
     {
       "id": "znz.jd_plantBean",
       "name": "京东种豆",
-      "keys": ["jd_plantBean_name","CookieJD_z", "jd_plantBean1", "jd_plantBean2", "jd_plantBean3"],
+      "keys": ["jd_plantBean_name","CookieJD_z", "jd_plantBean0", "jd_plantBean1", "jd_plantBean2", "jd_plantBean3"],
       "settings": [
         {
           "id": "jd_plantBean_name",
           "name": "jd_plantBean_name",
           "val": "京东种豆",
           "type": "text",
-          "desc": "名称。"
+          "desc": "帐号名称。"
         },
         {
           "id": "CookieJD_z",
@@ -156,9 +156,16 @@
           "desc": "使用NobyDa的京东ck。"
         },
         {
+          "id": "jd_plantBean0",
+          "name": "你自己的互助码",
+          "val": "",
+          "type": "text",
+          "desc": "你自己的互助码."
+        },
+        {
           "id": "jd_plantBean1",
           "name": "互助码1",
-          "val": "cay7n2fgqgn7sq2bzog7a3ovlq",
+          "val": "",
           "type": "text",
           "desc": "京东水果互助码."
         },
@@ -194,7 +201,7 @@
           "name": "jd_joy_name",
           "val": "京东汪汪",
           "type": "text",
-          "desc": "名称。"
+          "desc": "帐号名称。"
         },
         {
           "id": "CookieJD_z",

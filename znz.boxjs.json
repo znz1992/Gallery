@@ -12,10 +12,10 @@
       "settings": [
         {
           "id": "jd_fruit_name",
-          "name": "jd_fruit_name",
+          "name": "京东账号昵称",
           "val": "京东水果",
           "type": "text",
-          "desc": "帐号名称。"
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
         },
         {
           "id": "CookieJD_z",
@@ -26,7 +26,7 @@
         },
         {
           "id": "jd_fruit0",
-          "name": "自己的互助码",
+          "name": "我的互助码",
           "val": "",
           "type": "text",
           "desc": "你自己的互助码."
@@ -36,28 +36,28 @@
           "name": "互助码1",
           "val": "",
           "type": "text",
-          "desc": "京东水果互助码."
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
         },
         {
           "id": "jd_fruit2",
           "name": "互助码2",
           "val": "",
           "type": "text",
-          "desc": "京东水果互助码."
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
         },
         {
           "id": "jd_fruit3",
           "name": "互助码3",
           "val": "",
           "type": "text",
-          "desc": "京东水果互助码."
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
         },
         {
           "id": "jd_fruit4",
           "name": "互助码4",
           "val": "",
           "type": "text",
-          "desc": "京东水果互助码."
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
         }
       ],
       "author": "@lxk0301",
@@ -74,10 +74,10 @@
       "settings": [
         {
           "id": "jd_pet_name",
-          "name": "jd_pet_name",
+          "name": "京东帐号昵称",
           "val": "京东萌宠",
           "type": "text",
-          "desc": "帐号名称。"
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
         },
         {
           "id": "CookieJD_z",
@@ -88,7 +88,7 @@
         },
         {
           "id": "jd_pet1",
-          "name": "自己的互助码",
+          "name": "我的互助码",
           "val": "",
           "type": "text",
           "desc": "你自己的互助码."
@@ -98,35 +98,35 @@
           "name": "互助码1",
           "val": "",
           "type": "text",
-          "desc": "京东萌宠互助码."
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
         },
         {
           "id": "jd_pet2",
           "name": "互助码2",
           "val": "",
           "type": "text",
-          "desc": "京东萌宠互助码."
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
         },
         {
           "id": "jd_pet3",
           "name": "互助码3",
           "val": "",
           "type": "text",
-          "desc": "京东萌宠互助码."
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
         },
         {
           "id": "jd_pet4",
           "name": "互助码4",
           "val": "",
           "type": "text",
-          "desc": "京东萌宠互助码."
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
         },
         {
           "id": "jd_pet5",
           "name": "互助码5",
           "val": "",
           "type": "text",
-          "desc": "京东萌宠互助码."
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
         }
       ],
       "author": "@lxk0301",
@@ -143,10 +143,10 @@
       "settings": [
         {
           "id": "jd_plantBean_name",
-          "name": "jd_plantBean_name",
+          "name": "京东帐号昵称",
           "val": "京东种豆",
           "type": "text",
-          "desc": "帐号名称。"
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
         },
         {
           "id": "CookieJD_z",
@@ -157,7 +157,7 @@
         },
         {
           "id": "jd_plantBean0",
-          "name": "你自己的互助码",
+          "name": "我的互助码",
           "val": "",
           "type": "text",
           "desc": "你自己的互助码."
@@ -167,21 +167,21 @@
           "name": "互助码1",
           "val": "",
           "type": "text",
-          "desc": "京东水果互助码."
+          "desc": "京东种豆互助码.这是别人的shareCode,你帮别人助力"
         },
         {
           "id": "jd_plantBean2",
           "name": "互助码2",
           "val": "",
           "type": "text",
-          "desc": "京东水果互助码."
+          "desc": "京东种豆互助码.这是别人的shareCode,你帮别人助力"
         },
         {
           "id": "jd_plantBean3",
           "name": "互助码3",
           "val": "",
           "type": "text",
-          "desc": "京东水果互助码."
+          "desc": "京东种豆互助码.这是别人的shareCode,你帮别人助力"
         }
       ],
       "author": "@lxk0301",
@@ -198,10 +198,10 @@
       "settings": [
         {
           "id": "jd_joy_name",
-          "name": "jd_joy_name",
+          "name": "京东帐号昵称",
           "val": "京东汪汪",
           "type": "text",
-          "desc": "帐号名称。"
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
         },
         {
           "id": "CookieJD_z",

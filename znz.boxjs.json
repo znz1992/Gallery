@@ -5,6 +5,40 @@
   "icon": "https://avatars2.githubusercontent.com/u/16976219",
   "repo": "https://github.com/znz1992",
   "apps": [
+        {
+      "id": "znz.jd_NobyDa",
+      "name": "京东签到",
+      "keys": ["jd_NobyDa_name","CookieJD",  "CookieJD2"],
+      "settings": [
+        {
+          "id": "jd_NobyDa_name",
+          "name": "京东账号昵称",
+          "val": "",
+          "type": "text",
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
+        },
+        {
+          "id": "CookieJD",
+          "name": "帐号1",
+          "val": "",
+          "type": "text",
+          "desc": "浏览器打开https://bean.m.jd.com获取Cookie。"
+        },
+        {
+          "id": "CookieJD2",
+          "name": "帐号2",
+          "val": "",
+          "type": "text",
+          "desc": "浏览器打开https://bean.m.jd.com获取Cookie。"
+        }
+      ],
+      "author": "@NobyDa",
+      "repo": "自用的设置,添加了帐号备注",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jd.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jd.png"
+      ]
+    },
     {
       "id": "znz.jd_fruit",
       "name": "京东水果",

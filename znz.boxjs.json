@@ -253,6 +253,33 @@
       ]
     },
     {
+      "id": "znz.jd_joy",
+      "name": "京东摇钱树",
+      "keys": ["jd_moneyTree_name","CookieJD_zt"],
+      "settings": [
+        {
+          "id": "jd_moneyTree_name",
+          "name": "京东帐号昵称",
+          "val": "京东摇钱树",
+          "type": "text",
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
+        },
+        {
+          "id": "CookieJD_zt",
+          "name": "CookieJD_zt",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东ck。"
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/moneyTree.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/moneyTree.png"
+      ]
+    },
+    {
       "id": "znz.gitlab_box",
       "name": "Gitlab备份设置",
       "keys": [],

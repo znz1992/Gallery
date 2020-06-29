@@ -228,7 +228,7 @@
     {
       "id": "znz.jd_joy",
       "name": "京东汪汪",
-      "keys": ["jd_joy_name","CookieJD_z"],
+      "keys": ["jd_joy_name","CookieJD_joy"],
       "settings": [
         {
           "id": "jd_joy_name",
@@ -238,8 +238,8 @@
           "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
         },
         {
-          "id": "CookieJD_z",
-          "name": "CookieJD_z",
+          "id": "CookieJD_joy",
+          "name": "CookieJD_joy",
           "val": "",
           "type": "text",
           "desc": "使用NobyDa的京东ck。"

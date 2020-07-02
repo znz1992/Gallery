@@ -299,6 +299,18 @@
         "https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png",
         "https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png"
       ]
+    },
+    {
+      "id": "znz.txnews",
+      "name": "腾讯新闻",
+      "keys": ["sy_signurl_txnews", "sy_cookie_txnews", "video_txnews", "sy_signurl_txnews2", "sy_cookie_txnews2", "video_txnews2"],
+      "settings": [ ],
+      "author": "@Sunert",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/txnews.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/txnews.png"
+      ]
     }
   ]
 }

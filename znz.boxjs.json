@@ -314,20 +314,20 @@
       "id": "znz.jd_redPacket",
       "name": "京东抢红包",
       "keys": [
-        "jd_moneyTree_name",
-        "CookieJD_zt"
+        "jd_redPacket_name",
+        "CookieJD_zr"
       ],
       "settings": [
         {
-          "id": "jd_moneyTree_name",
+          "id": "jd_redPacket_name",
           "name": "京东帐号昵称",
           "val": "京东摇钱树",
           "type": "text",
           "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
         },
         {
-          "id": "CookieJD_zt",
-          "name": "CookieJD_zt",
+          "id": "CookieJD_zr",
+          "name": "CookieJD_zr",
           "val": "",
           "type": "text",
           "desc": "使用NobyDa的京东ck。"

@@ -5,10 +5,14 @@
   "icon": "https://avatars2.githubusercontent.com/u/16976219",
   "repo": "https://github.com/znz1992",
   "apps": [
-        {
+    {
       "id": "znz.jd_NobyDa",
       "name": "京东签到",
-      "keys": ["jd_NobyDa_name","CookieJD",  "CookieJD2"],
+      "keys": [
+        "jd_NobyDa_name",
+        "CookieJD",
+        "CookieJD2"
+      ],
       "settings": [
         {
           "id": "jd_NobyDa_name",
@@ -42,7 +46,14 @@
     {
       "id": "znz.jd_fruit",
       "name": "京东水果",
-      "keys": ["jd_fruit_name","CookieJD_z",  "jd_fruit1", "jd_fruit2", "jd_fruit3", "jd_fruit4"],
+      "keys": [
+        "jd_fruit_name",
+        "CookieJD_z",
+        "jd_fruit1",
+        "jd_fruit2",
+        "jd_fruit3",
+        "jd_fruit4"
+      ],
       "settings": [
         {
           "id": "jd_fruit_name",
@@ -104,7 +115,15 @@
     {
       "id": "znz.jd_pet",
       "name": "京东萌宠",
-      "keys": ["jd_pet_name","CookieJD_z",  "jd_pet1", "jd_pet2", "jd_pet3", "jd_pet4", "jd_pet5"],
+      "keys": [
+        "jd_pet_name",
+        "CookieJD_z",
+        "jd_pet1",
+        "jd_pet2",
+        "jd_pet3",
+        "jd_pet4",
+        "jd_pet5"
+      ],
       "settings": [
         {
           "id": "jd_pet_name",
@@ -173,7 +192,13 @@
     {
       "id": "znz.jd_plantBean",
       "name": "京东种豆",
-      "keys": ["jd_plantBean_name","CookieJD_z", "jd_plantBean1", "jd_plantBean2", "jd_plantBean3"],
+      "keys": [
+        "jd_plantBean_name",
+        "CookieJD_z",
+        "jd_plantBean1",
+        "jd_plantBean2",
+        "jd_plantBean3"
+      ],
       "settings": [
         {
           "id": "jd_plantBean_name",
@@ -228,7 +253,10 @@
     {
       "id": "znz.jd_joy",
       "name": "京东汪汪",
-      "keys": ["jd_joy_name","CookieJD_joy"],
+      "keys": [
+        "jd_joy_name",
+        "CookieJD_joy"
+      ],
       "settings": [
         {
           "id": "jd_joy_name",
@@ -255,7 +283,10 @@
     {
       "id": "znz.jd_moneyTree",
       "name": "京东摇钱树",
-      "keys": ["jd_moneyTree_name","CookieJD_zt"],
+      "keys": [
+        "jd_redPacket_name",
+        "CookieJD_zr"
+      ],
       "settings": [
         {
           "id": "jd_moneyTree_name",
@@ -280,6 +311,36 @@
       ]
     },
     {
+      "id": "znz.jd_redPacket",
+      "name": "京东抢红包",
+      "keys": [
+        "jd_moneyTree_name",
+        "CookieJD_zt"
+      ],
+      "settings": [
+        {
+          "id": "jd_moneyTree_name",
+          "name": "京东帐号昵称",
+          "val": "京东摇钱树",
+          "type": "text",
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
+        },
+        {
+          "id": "CookieJD_zt",
+          "name": "CookieJD_zt",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东ck。"
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdhb.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdhb.png"
+      ]
+    },
+    {
       "id": "znz.gitlab_box",
       "name": "Gitlab备份设置",
       "keys": [],
@@ -293,7 +354,7 @@
           "desc": "这里可以填要恢复的备份文件名称。"
         }
       ],
-      "author": "@lxk0301",
+      "author": "@znz",
       "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
       "icons": [
         "https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png",
@@ -303,7 +364,14 @@
     {
       "id": "znz.txnews",
       "name": "腾讯新闻",
-      "keys": ["sy_signurl_txnews", "sy_cookie_txnews", "video_txnews", "sy_signurl_txnews2", "sy_cookie_txnews2", "video_txnews2"],
+      "keys": [
+        "sy_signurl_txnews",
+        "sy_cookie_txnews",
+        "video_txnews",
+        "sy_signurl_txnews2",
+        "sy_cookie_txnews2",
+        "video_txnews2"
+      ],
       "author": "@Sunert",
       "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
       "icons": [

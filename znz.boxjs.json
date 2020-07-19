@@ -56,6 +56,13 @@
       ],
       "settings": [
         {
+          "id": "jdFruitNotify",
+          "name": "静默运行",
+          "val": false,
+          "type": "boolean",
+          "desc": "运行京东水果脚本时不发出系统通知"
+        },
+        {
           "id": "jd_fruit_name",
           "name": "京东账号昵称",
           "val": "京东水果",
@@ -125,6 +132,13 @@
         "jd_pet5"
       ],
       "settings": [
+        {
+          "id": "jdPetNotify",
+          "name": "静默运行",
+          "val": false,
+          "type": "boolean",
+          "desc": "运行京东萌宠脚本时不发出系统通知"
+        },
         {
           "id": "jd_pet_name",
           "name": "京东帐号昵称",
@@ -201,6 +215,13 @@
       ],
       "settings": [
         {
+          "id": "jdPlantBeanNotify",
+          "name": "静默运行",
+          "val": false,
+          "type": "boolean",
+          "desc": "运行京东种豆脚本时不发出系统通知"
+        },
+        {
           "id": "jd_plantBean_name",
           "name": "京东帐号昵称",
           "val": "京东种豆",
@@ -259,6 +280,13 @@
       ],
       "settings": [
         {
+          "id": "jdJoyNotify",
+          "name": "静默运行",
+          "val": false,
+          "type": "boolean",
+          "desc": "运行京东汪汪脚本时不发出系统通知"
+        },
+        {
           "id": "jd_joy_name",
           "name": "京东帐号昵称",
           "val": "京东汪汪",
@@ -288,6 +316,13 @@
         "CookieJD_zr"
       ],
       "settings": [
+        {
+          "id": "jdMoneyTreeNotify",
+          "name": "静默运行",
+          "val": false,
+          "type": "boolean",
+          "desc": "运行京东摇钱树脚本时不发出系统通知"
+        },
         {
           "id": "jd_moneyTree_name",
           "name": "京东帐号昵称",

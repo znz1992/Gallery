@@ -6,44 +6,6 @@
   "repo": "https://github.com/znz1992",
   "apps": [
     {
-      "id": "znz.jd_NobyDa",
-      "name": "京东签到",
-      "keys": [
-        "jd_NobyDa_name",
-        "CookieJD",
-        "CookieJD2"
-      ],
-      "settings": [
-        {
-          "id": "jd_NobyDa_name",
-          "name": "京东账号昵称",
-          "val": "",
-          "type": "text",
-          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
-        },
-        {
-          "id": "CookieJD",
-          "name": "帐号1",
-          "val": "",
-          "type": "text",
-          "desc": "浏览器打开https://bean.m.jd.com获取Cookie。"
-        },
-        {
-          "id": "CookieJD2",
-          "name": "帐号2",
-          "val": "",
-          "type": "text",
-          "desc": "浏览器打开https://bean.m.jd.com获取Cookie。"
-        }
-      ],
-      "author": "@NobyDa",
-      "repo": "自用的设置,添加了帐号备注",
-      "icons": [
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/jd.png",
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/jd.png"
-      ]
-    },
-    {
       "id": "znz.jd_fruit",
       "name": "京东水果",
       "keys": [
@@ -272,80 +234,6 @@
       ]
     },
     {
-      "id": "znz.jd_joy",
-      "name": "京东汪汪",
-      "keys": [
-        "jd_joy_name",
-        "CookieJD_joy"
-      ],
-      "settings": [
-        {
-          "id": "jdJoyNotify",
-          "name": "静默运行",
-          "val": false,
-          "type": "boolean",
-          "desc": "运行京东汪汪脚本时不发出系统通知"
-        },
-        {
-          "id": "jd_joy_name",
-          "name": "京东帐号昵称",
-          "val": "京东汪汪",
-          "type": "text",
-          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
-        },
-        {
-          "id": "CookieJD_joy",
-          "name": "CookieJD_joy",
-          "val": "",
-          "type": "text",
-          "desc": "使用NobyDa的京东ck。"
-        }
-      ],
-      "author": "@lxk0301",
-      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
-      "icons": [
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdww.png",
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdww.png"
-      ]
-    },
-    {
-      "id": "znz.jd_moneyTree",
-      "name": "京东摇钱树",
-      "keys": [
-        "jd_redPacket_name",
-        "CookieJD_zt"
-      ],
-      "settings": [
-        {
-          "id": "jdMoneyTreeNotify",
-          "name": "静默运行",
-          "val": false,
-          "type": "boolean",
-          "desc": "运行京东摇钱树脚本时不发出系统通知"
-        },
-        {
-          "id": "jd_moneyTree_name",
-          "name": "京东帐号昵称",
-          "val": "京东摇钱树",
-          "type": "text",
-          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
-        },
-        {
-          "id": "CookieJD_zt",
-          "name": "CookieJD_zt",
-          "val": "",
-          "type": "text",
-          "desc": "使用NobyDa的京东ck。"
-        }
-      ],
-      "author": "@lxk0301",
-      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
-      "icons": [
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/moneyTree.png",
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/moneyTree.png"
-      ]
-    },
-    {
       "id": "znz.jd_redPacket",
       "name": "京东抢红包",
       "keys": [
@@ -394,24 +282,6 @@
       "icons": [
         "https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png",
         "https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png"
-      ]
-    },
-    {
-      "id": "znz.txnews",
-      "name": "腾讯新闻",
-      "keys": [
-        "sy_signurl_txnews",
-        "sy_cookie_txnews",
-        "video_txnews",
-        "sy_signurl_txnews2",
-        "sy_cookie_txnews2",
-        "video_txnews2"
-      ],
-      "author": "@Sunert",
-      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
-      "icons": [
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/txnews.png",
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/txnews.png"
       ]
     }
   ]

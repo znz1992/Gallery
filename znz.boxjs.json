@@ -7,7 +7,7 @@
   "apps": [
     {
       "id": "znz.jd_fruit",
-      "name": "京东水果",
+      "name": "京东水果_助力",
       "keys": [
         "jd_fruit_name",
         "CookieJD_z",
@@ -37,13 +37,6 @@
           "val": "",
           "type": "text",
           "desc": "使用NobyDa的京东ck。"
-        },
-        {
-          "id": "jd_fruit0",
-          "name": "我的互助码",
-          "val": "",
-          "type": "text",
-          "desc": "你自己的互助码."
         },
         {
           "id": "jd_fruit1",
@@ -82,8 +75,77 @@
       ]
     },
     {
+      "id": "znz.jd_fruit_z",
+      "name": "京东水果",
+      "keys": [
+        "jd_fruit_name_z",
+        "CookieJD_fruit",
+        "jd_fruit1_z",
+        "jd_fruit2_z",
+        "jd_fruit3_z",
+        "jd_fruit4_z"
+      ],
+      "settings": [
+        {
+          "id": "jdFruitNotify",
+          "name": "静默运行",
+          "val": false,
+          "type": "boolean",
+          "desc": "运行京东水果脚本时不发出系统通知"
+        },
+        {
+          "id": "jd_fruit_name_z",
+          "name": "京东账号昵称",
+          "val": "京东水果",
+          "type": "text",
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
+        },
+        {
+          "id": "CookieJD_fruit",
+          "name": "CookieJD_fruit",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东ck。"
+        },
+        {
+          "id": "jd_fruit1_z",
+          "name": "互助码1",
+          "val": "",
+          "type": "text",
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
+        },
+        {
+          "id": "jd_fruit2_z",
+          "name": "互助码2",
+          "val": "",
+          "type": "text",
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
+        },
+        {
+          "id": "jd_fruit3_z",
+          "name": "互助码3",
+          "val": "",
+          "type": "text",
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
+        },
+        {
+          "id": "jd_fruit4_z",
+          "name": "互助码4",
+          "val": "",
+          "type": "text",
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdsg.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdsg.png"
+      ]
+    },
+    {
       "id": "znz.jd_pet",
-      "name": "京东萌宠",
+      "name": "京东萌宠_助力",
       "keys": [
         "jd_pet_name",
         "CookieJD_z",
@@ -114,13 +176,6 @@
           "val": "",
           "type": "text",
           "desc": "使用NobyDa的京东ck。"
-        },
-        {
-          "id": "jd_pet1",
-          "name": "我的互助码",
-          "val": "",
-          "type": "text",
-          "desc": "你自己的互助码."
         },
         {
           "id": "jd_pet1",
@@ -166,8 +221,85 @@
       ]
     },
     {
+      "id": "znz.jd_pet_z",
+      "name": "京东萌宠",
+      "keys": [
+        "jd_pet_name_z",
+        "CookieJD_pet",
+        "jd_pet1_z",
+        "jd_pet2_z",
+        "jd_pet3_z",
+        "jd_pet4_z",
+        "jd_pet5_z"
+      ],
+      "settings": [
+        {
+          "id": "jdPetNotify",
+          "name": "静默运行",
+          "val": false,
+          "type": "boolean",
+          "desc": "运行京东萌宠脚本时不发出系统通知"
+        },
+        {
+          "id": "jd_pet_name_z",
+          "name": "京东帐号昵称",
+          "val": "京东萌宠",
+          "type": "text",
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
+        },
+        {
+          "id": "CookieJD_pet",
+          "name": "CookieJD_pet",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东ck。"
+        },
+        {
+          "id": "jd_pet1_z",
+          "name": "互助码1",
+          "val": "",
+          "type": "text",
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
+        },
+        {
+          "id": "jd_pet2_z",
+          "name": "互助码2",
+          "val": "",
+          "type": "text",
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
+        },
+        {
+          "id": "jd_pet3_z",
+          "name": "互助码3",
+          "val": "",
+          "type": "text",
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
+        },
+        {
+          "id": "jd_pet4_z",
+          "name": "互助码4",
+          "val": "",
+          "type": "text",
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
+        },
+        {
+          "id": "jd_pet5_z",
+          "name": "互助码5",
+          "val": "",
+          "type": "text",
+          "desc": "京东萌宠互助码.这是别人的shareCode,你帮别人助力"
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdmc.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdmc.png"
+      ]
+    },
+    {
       "id": "znz.jd_plantBean",
-      "name": "京东种豆",
+      "name": "京东种豆_助力",
       "keys": [
         "jd_plantBean_name",
         "CookieJD_z",
@@ -198,13 +330,6 @@
           "desc": "使用NobyDa的京东ck。"
         },
         {
-          "id": "jd_plantBean0",
-          "name": "我的互助码",
-          "val": "",
-          "type": "text",
-          "desc": "你自己的互助码."
-        },
-        {
           "id": "jd_plantBean1",
           "name": "互助码1",
           "val": "",
@@ -220,6 +345,67 @@
         },
         {
           "id": "jd_plantBean3",
+          "name": "互助码3",
+          "val": "",
+          "type": "text",
+          "desc": "京东种豆互助码.这是别人的shareCode,你帮别人助力"
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png"
+      ]
+    },
+    {
+      "id": "znz.jd_plantBean_z",
+      "name": "京东种豆",
+      "keys": [
+        "jd_plantBean_name_z",
+        "CookieJD_plan",
+        "jd_plantBean1_z",
+        "jd_plantBean2_z",
+        "jd_plantBean3_z"
+      ],
+      "settings": [
+        {
+          "id": "jdPlantBeanNotify",
+          "name": "静默运行",
+          "val": false,
+          "type": "boolean",
+          "desc": "运行京东种豆脚本时不发出系统通知"
+        },
+        {
+          "id": "jd_plantBean_name_z",
+          "name": "京东帐号昵称",
+          "val": "京东种豆",
+          "type": "text",
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号。"
+        },
+        {
+          "id": "CookieJD_plan",
+          "name": "CookieJD_plan",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东ck。"
+        },
+        {
+          "id": "jd_plantBean1_z",
+          "name": "互助码1",
+          "val": "",
+          "type": "text",
+          "desc": "京东种豆互助码.这是别人的shareCode,你帮别人助力"
+        },
+        {
+          "id": "jd_plantBean2_z",
+          "name": "互助码2",
+          "val": "",
+          "type": "text",
+          "desc": "京东种豆互助码.这是别人的shareCode,你帮别人助力"
+        },
+        {
+          "id": "jd_plantBean3_z",
           "name": "互助码3",
           "val": "",
           "type": "text",

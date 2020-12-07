@@ -61,6 +61,9 @@
       "type": "checkboxes",
       "desc": "",
       "items": [{
+        "key": "sync-scripts",
+        "label": "同步主仓库"
+      }, {
         "key": "bean_change",
         "label": "京豆变化"
       }, {

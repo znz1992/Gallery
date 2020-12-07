@@ -4,8 +4,7 @@
   "author": "@lxk0301",
   "icon": "https://avatars2.githubusercontent.com/u/16976219",
   "repo": "https://github.com/znz1992",
-  "apps": [
-    {
+  "apps": [{
       "id": "znz.gitlab_box",
       "name": "Gitlab备份设置",
       "keys": [],
@@ -54,7 +53,7 @@
       }, {
         "key": "JD_scripts_c",
         "label": "仓库_c"
-      },
+      }]},
       {
       "id": "JD_gitactions_jb",
       "name": "选择脚本",
@@ -154,8 +153,7 @@
     "script": "https://raw.githubusercontent.com/znz1992/JD_scripts_z/main/git_actions.js",
     "author": "@sazs34, @NobyDa",
     "repo": "https://github.com/sazs34/TaskConfig/blob/master/task/sign_baidu_tieba_v2.js",
-    "icons": ["https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png", "https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png"]
-  }
-    
-  ]
+    "icons": ["https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png",
+	"https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png"]
+  }]
 }

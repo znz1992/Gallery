@@ -30,10 +30,10 @@
     "name": "git脚本执行",
     "keys": ["jd_gitactions"],
     "settings": [{
-      "id": "JD_gitactions",
+      "id": "JD_gitactions_ck",
       "name": "选择仓库",
       "val": "",
-      "type": "jd_gitactions_ck",
+      "type": "checkboxes",
       "desc": "",
       "items": [{
         "key": "JD_scripts_z",
@@ -58,7 +58,7 @@
       "id": "JD_gitactions_jb",
       "name": "选择脚本",
       "val": "",
-      "type": "jd_gitactions_jb",
+      "type": "checkboxes",
       "desc": "",
       "items": [{
         "key": "bean_change",

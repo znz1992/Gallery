@@ -141,6 +141,21 @@
       }, {
         "key": "jx_story",
         "label": "惊喜金牌"
+      }, {
+        "key": "jd_jxstory",
+        "label": "惊喜故事"
+      }, {
+        "key": "jd_kd",
+        "label": "京东快递"
+      }, {
+        "key": "jd_ds",
+        "label": "京东代属"
+      }, {
+        "key": "jd_car",
+        "label": "京东汽车"
+      }, {
+        "key": "jd_split",
+        "label": "金榜年终奖"
       }]
     }, {
       "id": "git_token",

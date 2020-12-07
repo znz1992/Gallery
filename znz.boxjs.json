@@ -1,7 +1,7 @@
 {
   "id": "znz.app.sub",
-  "name": "京东活动脚本订阅",
-  "author": "@lxk0301",
+  "name": "自用订阅",
+  "author": "@znz",
   "icon": "https://avatars2.githubusercontent.com/u/16976219",
   "repo": "https://github.com/znz1992",
   "apps": [{
@@ -159,6 +159,12 @@
       }, {
         "key": "jd_split",
         "label": "金榜年终奖"
+      }, {
+        "key": "jd_digital_floor",
+        "label": "数码加购"
+      }, {
+        "key": "jd_health",
+        "label": "健康抽奖机"
       }]
     }, {
       "id": "git_token",
@@ -169,7 +175,7 @@
       "desc": ""
     }],
     "script": "https://raw.githubusercontent.com/znz1992/JD_scripts_z/main/git_actions.js",
-    "author": "@sazs34, @NobyDa",
+    "author": "@znz",
     "repo": "https://github.com/sazs34/TaskConfig/blob/master/task/sign_baidu_tieba_v2.js",
     "icons": ["https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png",
 	"https://raw.githubusercontent.com/znz1992/Gallery/master/gitlab.png"]

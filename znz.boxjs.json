@@ -165,6 +165,9 @@
       }, {
         "key": "jd_health",
         "label": "健康抽奖机"
+      }, {
+        "key": "jd_small_home",
+        "label": "东东小窝"
       }]
     }, {
       "id": "git_token",

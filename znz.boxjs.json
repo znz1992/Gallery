@@ -4,7 +4,21 @@
   "author": "@znz",
   "icon": "https://avatars2.githubusercontent.com/u/16976219",
   "repo": "https://github.com/znz1992",
-  "apps": [{
+  "apps": [
+	  {
+      "id": "dian_xin",
+      "name": "电信百万金豆",
+      "keys": ["dxbox_name", "dxbox_cookie", "dxbox_body"],
+      "settings": [
+        { "id": "dxbox_name", "name": "账户名称", "val": "", "type": "text", "desc": "" },
+        { "id": "dxbox_cookie", "name": "参数1", "val": "", "type": "text", "desc": "" },
+        { "id": "dxbox_body", "name": "参数2", "val": "", "type": "text", "desc": "" }
+      ],
+      "author": "@znz",
+      "repo": "https://github.com/chavyleung/scripts/tree/master/jd",
+      "script": "https://github.com/elecV2/QuantumultX-Tools/tree/master/dianx/dxbox.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/jd.png", "https://raw.githubusercontent.com/Orz-3/task/master/jd.png"]
+    },{
       "id": "znz.gitlab_box",
       "name": "Gitlab备份设置",
       "keys": [],
